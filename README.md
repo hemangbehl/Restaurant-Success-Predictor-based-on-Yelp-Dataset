@@ -1,5 +1,5 @@
 # Restaurant-Success-Predictor-based-on-Yelp-Dataset
-An end-sem group project done for the subject CMPE 255:Data Mining with a team of 3 people.
+An end-sem group project done for the subject CMPE 255:Data Mining with a team of 3 people during Fall 2018 semester.
 
 Objective: To develop models to help answer questions such as what attributes help in making a restaurant successful and what kind of restaurants are rated higher than others.
 
