@@ -25,10 +25,10 @@ Yelp_1.ipynb					: Converts the JSON files to CSV files using jupyter notebook. 
 Noise_level_effect_1.2.ipynb	: analysis on the noise level and star rating
 									uses yelp_academic_dataset_business.csv, yelp_academic_dataset_review.csv
 
-Footfall_1.3.ipynb				: analysis on the footfall pattern. Creates a new csv file: checkin_modified_all.csv
+Footfall_1.4.ipynb				: analysis on the footfall pattern. Creates a new csv file: checkin_modified_all.csv
 									uses yelp_academic_dataset_checkin.csv
 
-Business_closure_1.8_final.ipynb: uses checkin_modified_all.csv and other files
+Business_closure_2.0_final.ipynb: uses checkin_modified_all.csv and other files
 									uses yelp_academic_dataset_business.csv, yelp_academic_dataset_review.csv and checkin_modified_all.csv
 
 Yelp-read_3.ipynb				: requires datafiles yob in 'data/' folder
